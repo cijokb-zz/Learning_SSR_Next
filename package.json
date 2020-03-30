@@ -1,0 +1,29 @@
+{
+  "name": "Learning_SSR_Next",
+  "version": "1.0.0",
+  "description": "Learning SSR using Nextjs",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.3.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cijokb/Learning_SSR_Next.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cijokb/Learning_SSR_Next/issues"
+  },
+  "homepage": "https://github.com/cijokb/Learning_SSR_Next#readme"
+}
