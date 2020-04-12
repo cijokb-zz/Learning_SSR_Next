@@ -6,8 +6,6 @@ const Post = () => {
     query: { title }
   } = useRouter();
 
-  console.log(id);
-
   return (
     <Layout>
       <h1>{title}</h1>
